@@ -1,2 +1,0 @@
-username : nimarjot
-password : 12345
