@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+// this is java calculator
+
  class CalculatorGUI extends JFrame {
     private JTextField textField;
     private JButton[] numberButtons;
